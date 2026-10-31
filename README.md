@@ -26,7 +26,7 @@
 </td>
 <td width="42%" valign="top">
 <h3>⚡ Quick facts</h3>
-<p>📍 San Diego, CA<br>🎓 MA, San Diego State · 2026<br>🎨 BFA, San José State · 2025<br>🎯 Open to UI/UX roles · 2027<br>💬 Ask me about user research</p>
+<p>🔍 Research-Driven UI/UX Designer<br>🎓 MA, San Diego State · 2026<br>🎨 BFA, San José State · 2025<br>🎯 Open to UI/UX &amp; Product Design Roles · 2027<br>💬 Ask me about UX Research &amp; Design Thinking</p>
 </td>
 </tr>
 </table>
