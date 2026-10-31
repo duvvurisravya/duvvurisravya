@@ -60,7 +60,7 @@ Before focusing on UI/UX and product design, I explored digital media, creative 
 
 <div align="center">
 
-### 🎱 Thanks for stopping by!
+### Thanks for stopping by!
 
 <img src="assets/pool.svg" width="100%" alt="Animated pool table with balls rolling and bouncing off the rails">
 
