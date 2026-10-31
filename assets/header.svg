@@ -34,8 +34,8 @@
     <text class="role r3" x="64" y="208">Brand &amp; Visual Designer</text>
   </g>
   <text class="tag" x="64" y="256">I design from what users actually say.</text>
-  <text class="mono" x="64" y="300">SAN DIEGO · MA @ SDSU 2026 · OPEN TO WORK</text>
-  <rect class="caret" x="500" y="286" width="9" height="18"/>
+  <text class="mono" x="64" y="300">RESEARCH-DRIVEN DESIGN · MA @ SDSU 2026 · OPEN TO WORK</text>
+  <rect class="caret" x="632" y="286" width="9" height="18"/>
   <g class="spin">
     <circle cx="960" cy="170" r="128" fill="none" stroke="#FFB38A" stroke-opacity=".35" stroke-dasharray="6 10"/>
     <circle cx="1088" cy="170" r="7" fill="#8DB9DC"/>
@@ -69,5 +69,5 @@
     <circle class="dot d2" cx="40" cy="38" r="7"/>
     <circle class="dot d3" cx="58" cy="38" r="7"/>
   </g>
-  <text class="mono" x="724" y="200" style="font-size:12px;fill:#A9B0C2">"Will this fit me?"</text>
+  <text class="mono" x="700" y="200" style="font-size:12px;fill:#A9B0C2">"What do users need?"</text>
 </svg>
