@@ -18,7 +18,7 @@ async function fetchCalendar(login, token) {
 }
 
 function render(cal) {
-  const CELL = 11, GAP = 3, STEP = CELL + GAP, PAD_X = 46, PAD_TOP = 64, PAD_BOTTOM = 46;
+  const CELL = 11, GAP = 3, STEP = CELL + GAP, PAD_X = 46, PAD_TOP = 40, PAD_BOTTOM = 46;
   const weeks = cal.weeks;
   const W = PAD_X * 2 + weeks.length * STEP - GAP, H = PAD_TOP + 7 * STEP - GAP + PAD_BOTTOM;
   const lit = [];
@@ -55,7 +55,6 @@ function render(cal) {
 @media (prefers-reduced-motion:reduce){.o,.lit,.lit .glow{animation:none}.lit{opacity:1}}
 </style>
 <rect width="${W}" height="${H}" rx="18" fill="#151821"/>
-<text class="t" x="${PAD_X}" y="30">${cal.totalContributions} contributions in the last year <tspan fill="#FFB38A">· lighting up</tspan></text>
 ${months}${days}${cells}${litCells}
 <text class="m" x="${PAD_X}" y="${H - 19}">Updated daily from my commits</text>
 <text class="m" x="${W - PAD_X - 5 * STEP - 4}" y="${H - 19}" text-anchor="end">Less</text>${legend}<text class="m" x="${W - PAD_X + 6}" y="${H - 19}">More</text>
