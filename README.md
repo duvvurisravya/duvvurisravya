@@ -12,24 +12,7 @@
 
 </div>
 
-<table>
-<tr>
-<td width="58%" valign="top">
-<h3>💬 About me</h3>
-<p>I'm a <b>UI/UX designer and researcher</b> finishing my <b>MA at San Diego State</b>. I begin each project by understanding users through research, interviews, and usability testing, then turn what people say into apps, websites and AI products that feel easy to use.</p>
-<h3>🌱 Currently Creating</h3>
-<ul>
-<li>💼 UI/UX Design &amp; Digital Marketing Intern at <b>Core Software Technologies</b></li>
-<li>🌿 MA Design Project: Branding and website design for <b>City Farmers Nursery</b></li>
-<li>🤖 AI &amp; Digital Marketing: Creating visual and marketing content for <b>EvaSpeaks AI</b> and <b>MeritHyre AI</b></li>
-</ul>
-</td>
-<td width="42%" valign="top">
-<h3>⚡ Quick facts</h3>
-<p>🔍 Research-Driven UI/UX Designer<br>🎓 MA, San Diego State · 2026<br>🎨 BFA, San José State · 2025<br>🎯 Open to UI/UX &amp; Product Design Roles · 2027<br>💬 Ask me about UX Research &amp; Design Thinking</p>
-</td>
-</tr>
-</table>
+<img src="assets/about.svg" width="100%" alt="About me: I'm a UI/UX designer and researcher finishing my MA at San Diego State. I begin each project by understanding users through research, interviews, and usability testing, then turn what people say into apps, websites and AI products that feel easy to use. Currently creating: UI/UX Design and Digital Marketing Intern at Core Software Technologies; MA Design Project, branding and website design for City Farmers Nursery; AI and Digital Marketing, visual and marketing content for EvaSpeaks AI and MeritHyre AI. Quick facts: Research-Driven UI/UX Designer; MA, San Diego State, 2026; BFA, San José State, 2025; Open to UI/UX and Product Design Roles, 2027; Ask me about UX Research and Design Thinking.">
 
 ### 🧠 UX Skills & Methods
 `User Research` · `User Interviews` · `Usability Testing` · `Wireframing` · `Prototyping` · `Design Systems` · `Information Architecture` · `User Flows` · `Journey Mapping` · `Accessibility` · `Heuristic Evaluation` · `Competitive Analysis`
