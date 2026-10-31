@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sravya-duvvuri-863474192/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://sravyaduvvuriportfolio.framer.website"><img src="https://img.shields.io/badge/Portfolio-E0784A?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://duvvurisravya.github.io/sravya-duvvuri-portfolio/"><img src="https://img.shields.io/badge/Portfolio-E0784A?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.behance.net/sravyaduvvuri"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance"></a>
 <a href="mailto:sravyaadobe12@gmail.com"><img src="https://img.shields.io/badge/Email-151821?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="SravyaDuvvuri-Resume.pdf"><img src="https://img.shields.io/badge/Resume-FFD43B?style=flat&logo=adobeacrobatreader&logoColor=151821" alt="Resume"></a>
