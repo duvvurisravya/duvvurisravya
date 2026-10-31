@@ -16,7 +16,7 @@
 <tr>
 <td width="58%" valign="top">
 <h3>💬 About me</h3>
-<p>I'm a <b>UI/UX designer and researcher</b> finishing my <b>MA at San Diego State</b>. I start every project by listening, through interviews, surveys and usability tests, then turn what people say into apps, websites and AI products that feel easy to use.</p>
+<p>I'm a <b>UI/UX designer and researcher</b> finishing my <b>MA at San Diego State</b>. I begin each project by understanding users through research, interviews, and usability testing, then turn what people say into apps, websites and AI products that feel easy to use.</p>
 <h3>🌱 Currently Creating</h3>
 <ul>
 <li>💼 UI/UX Design &amp; Digital Marketing Intern at <b>Core Software Technologies</b></li>
@@ -30,6 +30,15 @@
 </td>
 </tr>
 </table>
+
+### 🧠 UX Skills & Methods
+`User Research` · `User Interviews` · `Usability Testing` · `Wireframing` · `Prototyping` · `Design Systems` · `Information Architecture` · `User Flows` · `Journey Mapping` · `Accessibility` · `Heuristic Evaluation` · `Competitive Analysis`
+
+### 🎯 Creative & Marketing Skills
+`Brand Identity` · `Visual Design` · `Content Creation` · `SEO` · `Social Media Marketing` · `Google Analytics` · `B2B Lead Generation`
+
+### 💻 Web & Creative Coding
+`HTML` · `CSS` · `p5.js` · `Three.js` · `WordPress` · `VS Code`
 
 ### 🛠️ Tools I use
 
@@ -56,6 +65,12 @@
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white" alt="p5.js">
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js">
 
+
+### 🗂️ Earlier Creative Work
+Before focusing on UI/UX and product design, I explored digital media, creative coding, and interactive web experiences.
+
+🔗 [Explore My Previous GitHub Projects](https://github.com/dsravya00)<br>
+<sub>A collection of earlier academic projects and experiments documenting my creative and technical journey.</sub>
 
 <div align="center">
 
