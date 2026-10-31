@@ -17,11 +17,11 @@
 <td width="58%" valign="top">
 <h3>💬 About me</h3>
 <p>I'm a <b>UI/UX designer and researcher</b> finishing my <b>MA at San Diego State</b>. I start every project by listening, through interviews, surveys and usability tests, then turn what people say into apps, websites and AI products that feel easy to use.</p>
-<h3>🌱 Right now</h3>
+<h3>🌱 Currently Creating</h3>
 <ul>
-<li>💼 UI/UX Design &amp; Digital Marketing Intern, <b>Core Software Technologies</b></li>
-<li>🏡 MA project: brand + website for <b>City Farmers Nursery</b></li>
-<li>🤖 Designing content for <b>Eva Speaks AI</b> and <b>MeritHyre AI</b></li>
+<li>💼 UI/UX Design &amp; Digital Marketing Intern at <b>Core Software Technologies</b></li>
+<li>🌿 MA Design Project: Branding and website design for <b>City Farmers Nursery</b></li>
+<li>🤖 AI &amp; Digital Marketing: Creating visual and marketing content for <b>EvaSpeaks AI</b> and <b>MeritHyre AI</b></li>
 </ul>
 </td>
 <td width="42%" valign="top">
