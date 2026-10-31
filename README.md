@@ -61,7 +61,6 @@
 **Code** &nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white" alt="CSS">
-<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> -->
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white" alt="p5.js">
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js">
 
