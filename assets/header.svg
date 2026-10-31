@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Hi, I'm Sravya Duvvuri, UI/UX Designer and Researcher">
+  <style>
+    .bg{fill:#151821}
+    .name{font:700 64px 'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#F6F2E9;letter-spacing:-1.5px}
+    .hi{font:500 22px 'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#FFB38A;letter-spacing:4px}
+    .role{font:600 30px 'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#FFB38A;opacity:0}
+    .tag{font:400 20px 'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#A9B0C2}
+    .mono{font:500 14px Menlo,Consolas,monospace;fill:#6E7691;letter-spacing:2px}
+    .r1{animation:cycle 9s infinite 0s}
+    .r2{animation:cycle 9s infinite 3s}
+    .r3{animation:cycle 9s infinite 6s}
+    @keyframes cycle{0%{opacity:0;transform:translateY(12px)}5%,28%{opacity:1;transform:translateY(0)}33%,100%{opacity:0;transform:translateY(-12px)}}
+    .dot{fill:#151821;animation:bounce 1.2s ease-in-out infinite}
+    .d2{animation-delay:.15s}.d3{animation-delay:.3s}
+    @keyframes bounce{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-10px)}}
+    .float{animation:float 5s ease-in-out infinite}
+    @keyframes float{50%{transform:translateY(-10px)}}
+    .spin{transform-origin:960px 170px;animation:spin 40s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .bar{fill:#FFB38A;transform-box:fill-box;transform-origin:50% 100%;animation:eq 1s ease-in-out infinite alternate}
+    @keyframes eq{from{transform:scaleY(.3)}to{transform:scaleY(1)}}
+    .caret{fill:#FFB38A;animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+  </style>
+  <rect class="bg" width="1200" height="340" rx="24"/>
+  <g stroke="#232838" stroke-width="1">
+    <path d="M700 0V340M780 0V340M860 0V340M940 0V340M1020 0V340M1100 0V340M660 60H1200M660 140H1200M660 220H1200M660 300H1200"/>
+  </g>
+  <text class="hi" x="64" y="88">HI, I'M</text>
+  <text class="name" x="62" y="156">Sravya Duvvuri</text>
+  <g>
+    <text class="role r1" x="64" y="208">UI/UX Designer</text>
+    <text class="role r2" x="64" y="208">UX Researcher</text>
+    <text class="role r3" x="64" y="208">Brand &amp; Visual Designer</text>
+  </g>
+  <text class="tag" x="64" y="256">I design from what users actually say.</text>
+  <text class="mono" x="64" y="300">SAN DIEGO · MA @ SDSU 2026 · OPEN TO WORK</text>
+  <rect class="caret" x="500" y="286" width="9" height="18"/>
+  <g class="spin">
+    <circle cx="960" cy="170" r="128" fill="none" stroke="#FFB38A" stroke-opacity=".35" stroke-dasharray="6 10"/>
+    <circle cx="1088" cy="170" r="7" fill="#8DB9DC"/>
+    <circle cx="832" cy="170" r="7" fill="#F2C230"/>
+    <circle cx="960" cy="42" r="7" fill="#7DC76B"/>
+    <circle cx="960" cy="298" r="7" fill="#A9A3FF"/>
+  </g>
+  <g class="float">
+    <rect x="905" y="70" width="112" height="210" rx="20" fill="#F6F2E9"/>
+    <rect x="913" y="78" width="96" height="194" rx="14" fill="#ffffff"/>
+    <rect x="938" y="84" width="46" height="8" rx="4" fill="#151821"/>
+    <rect x="923" y="104" width="76" height="46" rx="8" fill="#E3ECF4"/>
+    <circle cx="961" cy="120" r="9" fill="#2D5F85"/>
+    <rect x="945" y="131" width="32" height="19" rx="9" fill="#2D5F85" opacity=".8"/>
+    <rect x="923" y="160" width="50" height="6" rx="3" fill="#C9CED9"/>
+    <rect x="923" y="172" width="76" height="6" rx="3" fill="#E3E6EE"/>
+    <g transform="translate(931 230)">
+      <rect class="bar" x="0" y="-24" width="6" height="24" rx="3"/>
+      <rect class="bar" x="11" y="-24" width="6" height="24" rx="3" style="animation-delay:-.3s"/>
+      <rect class="bar" x="22" y="-24" width="6" height="24" rx="3" style="animation-delay:-.6s"/>
+      <rect class="bar" x="33" y="-24" width="6" height="24" rx="3" style="animation-delay:-.15s"/>
+      <rect class="bar" x="44" y="-24" width="6" height="24" rx="3" style="animation-delay:-.45s"/>
+      <rect class="bar" x="55" y="-24" width="6" height="24" rx="3" style="animation-delay:-.75s"/>
+    </g>
+    <rect x="923" y="244" width="76" height="18" rx="9" fill="#151821"/>
+  </g>
+  <g transform="translate(800 64)">
+    <path d="M18 0H62A38 38 0 0 1 62 76H18A38 38 0 0 1 18 0Z" fill="#FFB38A"/>
+    <path d="M14 60L2 98L48 60Z" fill="#FFB38A"/>
+    <circle class="dot" cx="22" cy="38" r="7"/>
+    <circle class="dot d2" cx="40" cy="38" r="7"/>
+    <circle class="dot d3" cx="58" cy="38" r="7"/>
+  </g>
+  <text class="mono" x="724" y="200" style="font-size:12px;fill:#A9B0C2">"Will this fit me?"</text>
+</svg>
