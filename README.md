@@ -58,10 +58,8 @@
 
 <div align="center">
 
-### 🎱 Thanks for stopping by!
+<img src="assets/collide.svg" width="100%" alt="Glossy billiard balls roll, collide and gather into a rack as UI/UX appears with the tagline Ideas collide. Experiences emerge.">
 
-<img src="assets/pool.svg" width="100%" alt="Animated pool table with balls rolling and bouncing off the rails">
-
-<sub>Designed from research, one iteration at a time. 🧡</sub>
+<sub>🎨 Designed from research, one iteration at a time.</sub>
 
 </div>
