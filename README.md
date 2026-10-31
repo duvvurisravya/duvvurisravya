@@ -58,6 +58,8 @@ Before focusing on UI/UX and product design, I explored digital media, creative 
 
 <sub>A collection of earlier academic projects and experiments documenting my creative and technical journey.</sub>
 
+<img src="assets/contrib.svg" width="100%" alt="My GitHub contributions from the last year, with each day I committed lighting up one by one">
+
 <div align="center">
 
 ### 🎱 Thanks for stopping by!
